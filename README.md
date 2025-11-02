@@ -14,3 +14,4 @@ Project Page: https://pages.cs.wisc.edu/~felipe/project-pages/2022-compressive-h
     pages     = {17854-17864}
 }
 
+I have been able to generate my own simulations with bathroom and kitchen images to see how each coding scheme looks on the given location.
